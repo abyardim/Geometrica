@@ -1,10 +1,10 @@
 # Geometrica
 
 ## Objective
-A geometry description and rendering library. Aims to provide a way of textually describing geometric constructions and generate drawings. Example uses could be some CAD applications and generating geometry problems for students utilizing compact textual descriptions.
+Geometrica is a geometry description and rendering library. It aims to provide a way of textually describing geometric constructions and generate drawings. Example uses could be some CAD applications and generating geometry problems for students utilizing compact textual descriptions.
 
 ## Features
-- Interprets constructions using a geometric description language .
+- Interprets constructions written in a simple geometric description language.
 - Can form visualizations of constructions using the textual description.
 - Can extract additional features of the cosntruction using queries, applying geometric rules.
 - Can export geometric drawings and results as images.
