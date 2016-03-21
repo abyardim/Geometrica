@@ -3,7 +3,7 @@
 ## Objective
 Geometrica is a geometry description and rendering library. It aims to provide a way of textually describing geometric constructions and generate drawings. Example uses could be some CAD applications and generating geometry problems for students utilizing compact textual descriptions.
 
-An example with the input description in the upper-left corener, and the generated rendering and solution:
+An example with the input description on the left, and the generated rendering and solution:
 
 ![Example input](http://i.imgur.com/NNLDcvF.png "Input")
 ![Example rendering](http://i.imgur.com/y41i5dy.png "Rendering") 
